@@ -53,4 +53,132 @@ A resigning or expelled Member has no right to the Association’s assets.
 The General Assembly decides on the principle of membership fees and their amount.
 
 
+# III. ORGANISATION AND GOVERNANCE
+## Article 10  BODIES OF THE ASSOCIATION
+The bodies of the Association are:
+- The General Assembly,
+- The Board, and
+- The External Auditors, insofar as required by Swiss law.
+ 
+# IV. THE GENERAL ASSEMBLY
+## Article 11  PRINCIPLES
+The General Assembly is the supreme authority of the Association within the meaning of article 64 et seq. CC.
+
+It is composed of all the Members. 
+
+## Article 12  POWERS
+The General Assembly delegates to the Board the power to administer and represent the Association.
+
+The General Assembly remains with the following inalienable powers :
+
+- Adoption and amendment of the present Statutes;
+- Nomination, surveillance and revocation of the External Auditors;
+- Approval of annual reports and audited accounts;
+- Admission and exclusion of Members;
+- Nomination, surveillance, discharge and revocation of Board members; 
+- Decision on the dissolution or merger of the Association; and
+- Management of all matters that are not the responsibility of other bodies.
+
+## Article 13  MEETINGS
+**Ordinary meeting** of the General Assembly. The Ordinary meeting of the General Assembly shall be held at least once a year, in person.
+
+**Extraordinary meeting** of the General Assembly. Extraordinary meetings of the General Assembly may be called by the Board or at the request of at least 20 percent of all Members, in accordance with article 64 para. 3 CC.
+
+**Convocation**. The Board shall convene the meetings of the General Assembly with a one-month notice. The agenda of the meetings must be sent with the invitations. The invitations may be sent by post or by e-mail.  
+
+**Quorum**. The General Assembly is validly instituted regardless of the number of Members present.
+
+**The Chair**. The Chair, and in his/her absence the Deputy Chair (as defined in article 17 below), shall chair the meetings of the General Assembly.
+ 
+## Article 14  DECISION MAKING AND VOTING RIGHTS
+**Voting rights**. Each Member shall have an equal voting right at the General Assembly.
+
+**Power of attorney**. Members may vote in person or by proxy.
+
+**Process**. Voting takes place by a show of hands. Upon request of at least [one-fifth] of the Members, voting may take place by secret ballot.
+
+**Majority of votes**. All decisions shall require a simple majority of all votes expressed (including votes by proxy), insofar as the present Statutes do not provide for a different majority.
+
+**Decisions by circular letter**. Proposals to which all Members have adhered in writing are equivalent to decisions taken by the General Assembly, in accordance with article 66 para. 2 CC.
+
+**Conflict of interest**. In accordance with article 68 CC, a Member may not vote for decisions relating to a matter or a legal proceeding regarding the Association where he or she, his or her spouse, parents or relatives in direct line are a party to the matter. 
+
+**Minutes**. The meetings of the General Assembly and its decisions are recorded in the minutes.
+ 
+# V. THE BOARD
+## Article 15  PRINCIPLES
+**Role and powers**. The Board is the executive body of the Association. It has the right and the duty to manage the affairs of the Association and to represent it in accordance with the Statutes (art. 69 CC). In particular, the Board shall take all necessary measures to achieve the purposes of the Association, ensure the correct application of the present Statutes and any other internal regulations, administer the property, assets and resources of the Association, manage the accounts, engage and supervise a Director, if necessary, and convene and organise the General Assembly.
+
+**Pro-bono**. Board members shall act on a pro-bono basis, with the exception of reimbursement of their effective costs and travel expenses. Potential attendance fees may not exceed those paid for official commissions of the Canton of Geneva. For activities that exceed the usual scope of the function, each Board member may receive appropriate compensation. Paid employees of the Association may only sit on the Board in an advisory capacity.
+ 
+## Article 16 APPOINTMENT OF THE BOARD
+The initial Board members are appointed by the founders.
+
+After that, the new members of the Board are appointed by the General Assembly.
+ 
+## Article 17  COMPOSITION
+The Board shall be composed of at least three and at most seven members.
+
+The Board designates amongst its members, a Chair, a Deputy Chair as well as any other function as it may deem necessary.
+
+At least one member of the Board with signatory powers must be a Swiss citizen or a citizen of a member State of the EU or EFTA and have his/her domicile in Switzerland.
+ 
+## Article 18  TERM
+The Board members are appointed for a one year term, renewable indefinitely.
+
+## Article 19 REMOVAL AND RESIGNATION
+**Removal**. Board members may be removed by the General Assembly for just cause, in particular if the Board member has violated his/her obligations towards the Association or if the Board member is not in a position to exercise his/her functions correctly.
+
+**Resignation**. Board members may resign at any time by submitting a written declaration to the Chair, specifying when the resignation shall take effect.
+
+**Vacancy during the term of office**. In the event of dismissal or resignation during the term of office, the Board may appoint a replacement member by co-optation, until the next meeting of the General Assembly.
+
+## Article 20  DELEGATION AND REPRESENTATION
+**Delegation**. The Board is entitled to delegate certain of its tasks to one or more of the Board members, including to Board sub-committees, to third parties, or to hired employees.
+
+**Representation**. The Association is validly represented and bound by the collective signature of two Board members and/or any other officer or representative designated for this purpose by the Board by a power of attorney.
+ 
+## Article 21  BOARD MEETINGS
+**Meetings**. The Board shall meet as often as required, but at least twice per year.
+
+**Process**. Board members may validly participate in a meeting of the Board by video or telephone conference or any other form of communications equipment.
+
+**Convocation**. The Chair of the Board shall convene Board meetings at least fifteen days in advance. The Chair may convene the Board with three days’ advance notice, where justified by urgent circumstances. 
+
+## Article 22  DECISION MAKING
+**Votes and majority**. Each Board member shall have one vote. Decisions are taken by a simple majority of all votes expressed, as long as the present Statutes or other internal regulations of the Association do not provide for a different majority. In case of a tie, the Chair shall have a casting vote.
+
+**Decisions by circular letter.** Decisions may also validly be taken by written resolution, including by email.
+
+**Minutes**. Board meetings and decisions will be recorded in the minutes of the Board.
+
+# VI. MISCELLANEOUS AND FINAL PROVISIONS 
+## Article 23  SECRETARIAT
+The Board may create a secretariat and/or appoint a Director to manage the day-to-day affairs of the Association.
+
+## Article 24  EXTERNAL AUDITORY
+**Compulsory body**. To the extent required by Swiss law, the General Assembly shall appoint the independent External Auditor in charge of (i) verifying the annual accounts of the Association and to submit a detailed report to the General Assembly and (ii) to ensure that the statutory rules of the Association (Statutes and internal regulations) are respected.
+
+**Optional body**. The Association, which is not subject to the obligation to appoint an External Auditor, may nevertheless decide to appoint one (or more) External Auditor(s), who would prepare a report to the General Assembly’s attention.
+ 
+## Article 25  BOOKKEEPING
+**Accounts**. The Board must prepare for each financial year accounts as required by the applicable laws.
+
+**Fiscal year**. The fiscal year begins on January 1st and ends on December 31st of each year.
+ 
+## Article 26  LIABILITY
+The Association is solely liable for its debts and obligations, which are guaranteed by its assets, to the exclusion of all individual responsibility of its Members.
+
+Comments: see article 75a CC for the association’s liability.
+ 
+## Article 27  DISSOLUTION
+The Association may only be dissolved by a two-third (2/3) majority vote of all Members.
+
+In such a case, the Board shall proceed with the liquidation of the Association.
+
+The assets of the Association shall first serve to pay its creditors.
+
+Remaining assets will be entirely assigned to a non-profit entity, which pursues similar public interest purposes and which is tax exempted.
+
+In no event may the assets of the Association be returned to its founding members or Members, nor should they use some or all of the assets for their own benefit in any way.
 
